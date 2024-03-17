@@ -1,0 +1,6 @@
+Thu Jan 25 21:52:52 2024
+WARNING: mju_openResource: unknown file 'lab13-public/manipulator.xml'
+
+Fri Jan 26 14:24:10 2024
+WARNING: mju_openResource: unknown file 'lab13-secret/manipulator3d.xml'
+
